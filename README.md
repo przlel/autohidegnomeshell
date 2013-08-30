@@ -1,0 +1,4 @@
+autohidegnomeshell
+==================
+
+autohide extension gnome
